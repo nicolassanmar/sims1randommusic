@@ -1,0 +1,602 @@
+[
+  {
+    "Title": "SIMnata #13 (Piano Sonata K.333 No.13 in B Flat Major - III Allegretto)",
+    "Station": "Classical",
+    "Genre": "",
+    "Artist": "Wolfgang Amadeus Mozart",
+    "Pack": "The Sims",
+    "Preview": "https://static.wikia.nocookie.net/sims/images/0/0e/Ts1_BbMaj.ogg/revision/latest?cb=20141115163440"
+  },
+  {
+    "Title": "SIMnata #15 (Piano Sonata K.545 No.16 in C Major - II Andante)",
+    "Station": "Classical",
+    "Genre": "",
+    "Artist": "Wolfgang Amadeus Mozart",
+    "Pack": "The Sims",
+    "Preview": "https://static.wikia.nocookie.net/sims/images/6/6a/Cmaj.ogg/revision/latest?cb=20120927185838"
+  },
+  {
+    "Title": "SIMnata #4 (Piano Sonata K.282 No.3 in E Flat Major - III Allegro)",
+    "Station": "Classical",
+    "Genre": "",
+    "Artist": "Wolfgang Amadeus Mozart",
+    "Pack": "The Sims",
+    "Preview": "https://static.wikia.nocookie.net/sims/images/5/5d/Ebmaj.ogg/revision/latest?cb=20120927185244"
+  },
+  {
+    "Title": "SIMnata #12 (Piano Sonata K.332 No.12 in F Major - II Adagio)",
+    "Station": "Classical",
+    "Genre": "",
+    "Artist": "Wolfgang Amadeus Mozart",
+    "Pack": "The Sims",
+    "Preview": "https://static.wikia.nocookie.net/sims/images/4/4a/Ts1_Fmaj.ogg/revision/latest?cb=20141115163440"
+  },
+  {
+    "Title": "SIMnata #5 (Piano Sonata K.283 No.3 in G Major - Presto)",
+    "Station": "Classical",
+    "Genre": "",
+    "Artist": "Wolfgang Amadeus Mozart",
+    "Pack": "The Sims",
+    "Preview": "https://static.wikia.nocookie.net/sims/images/d/d3/Ts1_Gmaj.ogg/revision/latest?cb=20141115163442"
+  },
+  {
+    "Title": "Oh Sims",
+    "Station": "Rock",
+    "Genre": "Alt-rock",
+    "Artist": "Jerry Martin",
+    "Pack": "The Sims",
+    "Preview": "https://static.wikia.nocookie.net/sims/images/f/fd/Ts1_rock1.ogg/revision/latest?cb=20141104114318"
+  },
+  {
+    "Title": "That's Hot",
+    "Station": "Rock",
+    "Genre": "Funk rock",
+    "Artist": "Jerry Martin",
+    "Pack": "The Sims",
+    "Preview": "https://static.wikia.nocookie.net/sims/images/3/3c/Ts1_rock2.ogg/revision/latest?cb=20141104114319"
+  },
+  {
+    "Title": "Yea Yai Yo[11]",
+    "Station": "Rock",
+    "Genre": "Disco",
+    "Artist": "Jerry Martin",
+    "Pack": "The Sims",
+    "Preview": "https://static.wikia.nocookie.net/sims/images/b/b0/Ts1_rock3.ogg/revision/latest?cb=20140915024034"
+  },
+  {
+    "Title": "SIM Hagar",
+    "Station": "Rock",
+    "Genre": "Alt-rock",
+    "Artist": "Jerry Martin",
+    "Pack": "The Sims",
+    "Preview": "https://static.wikia.nocookie.net/sims/images/d/d8/SIMHagar.ogg/revision/latest?cb=20120927225949"
+  },
+  {
+    "Title": "Middle Finger (Consensus)",
+    "Station": "Rock",
+    "Genre": "Heavy metal",
+    "Artist": "Jerry Martin",
+    "Pack": "The Sims",
+    "Preview": "https://static.wikia.nocookie.net/sims/images/3/3e/Ts1_rock5.ogg/revision/latest?cb=20141104114319"
+  },
+  {
+    "Title": "Fishin' (Beaumont Rag)",
+    "Station": "Country",
+    "Genre": "Bluegrass",
+    "Artist": "Traditional, arr. Dix Bruce",
+    "Pack": "The Sims",
+    "Preview": "https://static.wikia.nocookie.net/sims/images/2/2b/Ts1_beaumont.ogg/revision/latest?cb=20150819032531"
+  },
+  {
+    "Title": "Devil's Dream",
+    "Station": "Country",
+    "Genre": "Bluegrass",
+    "Artist": "Traditional, arr. Dix Bruce",
+    "Pack": "The Sims",
+    "Preview": "https://static.wikia.nocookie.net/sims/images/0/03/Ts1_devilsdr.ogg/revision/latest?cb=20150819032532"
+  },
+  {
+    "Title": "Goin' Down The Road",
+    "Station": "Country",
+    "Genre": "Country",
+    "Artist": "Traditional, arr. Dix Bruce",
+    "Pack": "The Sims",
+    "Preview": "https://static.wikia.nocookie.net/sims/images/0/0b/Ts1_downroad.ogg/revision/latest?cb=20150819032533"
+  },
+  {
+    "Title": "SIM Yonder (Down Yonder)",
+    "Station": "Country",
+    "Genre": "Bluegrass",
+    "Artist": "Louis Wolfe Gilbert, arr. Dix Bruce",
+    "Pack": "The Sims",
+    "Preview": "https://static.wikia.nocookie.net/sims/images/7/73/SIMYonder.ogg/revision/latest?cb=20120927225652"
+  },
+  {
+    "Title": "Sally Goodin'",
+    "Station": "Country",
+    "Genre": "Bluegrass",
+    "Artist": "Traditional, arr. Dix Bruce",
+    "Pack": "The Sims",
+    "Preview": "https://static.wikia.nocookie.net/sims/images/d/da/Fishin.ogg/revision/latest?cb=20120927223812"
+  },
+  {
+    "Title": "Splatter",
+    "Station": "Country",
+    "Genre": "Bluegrass",
+    "Artist": "Jerry Martin",
+    "Pack": "The Sims",
+    "Preview": "https://static.wikia.nocookie.net/sims/images/5/55/Ts1_splatter.ogg/revision/latest?cb=20150819032533"
+  },
+  {
+    "Title": "SIM Hoe Down (Turkey In The Straw)",
+    "Station": "Country",
+    "Genre": "Bluegrass",
+    "Artist": "Traditional, arr. Dix Bruce",
+    "Pack": "The Sims",
+    "Preview": "https://static.wikia.nocookie.net/sims/images/6/61/SIMHoeDown.ogg/revision/latest?cb=20120927225247"
+  },
+  {
+    "Title": "Cocktails Anyone? (How You Doin')",
+    "Station": "Latin",
+    "Genre": "Bossa nova",
+    "Artist": "Jerry Martin",
+    "Pack": "The Sims",
+    "Preview": "https://static.wikia.nocookie.net/sims/images/9/91/Ts1_latin1.ogg/revision/latest?cb=20140915110529"
+  },
+  {
+    "Title": "Martinis For Two (Doobadoo)",
+    "Station": "LatinNeighborhood theme[12]",
+    "Genre": "Bossa nova",
+    "Artist": "Jerry Martin",
+    "Pack": "The Sims",
+    "Preview": "https://static.wikia.nocookie.net/sims/images/9/93/Ts1_latin2.ogg/revision/latest?cb=20141021141328"
+  },
+  {
+    "Title": "Samba SIM (Batusimcadda)",
+    "Station": "Latin",
+    "Genre": "Samba",
+    "Artist": "Jerry Martin",
+    "Pack": "The Sims",
+    "Preview": "https://static.wikia.nocookie.net/sims/images/5/50/SambaSIM.ogg/revision/latest?cb=20120927222320"
+  },
+  {
+    "Title": "BoSIM Nova (Wet Your Whistle)",
+    "Station": "LatinNeighborhood theme[12]",
+    "Genre": "Bossa nova",
+    "Artist": "Marc Russo",
+    "Pack": "The Sims",
+    "Preview": "https://static.wikia.nocookie.net/sims/images/7/7e/BoSIMNova.ogg/revision/latest?cb=20120927222421"
+  },
+  {
+    "Title": "Lounge Lizard",
+    "Station": "Latin",
+    "Genre": "Bossa nova",
+    "Artist": "Kirk Casey",
+    "Pack": "The Sims",
+    "Preview": "https://static.wikia.nocookie.net/sims/images/1/14/Ts1_latin5.ogg/revision/latest?cb=20141021141329"
+  },
+  {
+    "Title": "Mickey Mickey Annie",
+    "Station": "Beach",
+    "Genre": "Beach",
+    "Artist": "Jerry Martin",
+    "Pack": "The Sims: House Party",
+    "Preview": "https://static.wikia.nocookie.net/sims/images/6/61/Ts1_beach1.ogg/revision/latest?cb=20150106000940"
+  },
+  {
+    "Title": "SIMboys (SPF 50)",
+    "Station": "Beach",
+    "Genre": "Surf rock",
+    "Artist": "Jerry Martin",
+    "Pack": "The Sims: House Party",
+    "Preview": "https://static.wikia.nocookie.net/sims/images/e/e8/Ts1_beach2.ogg/revision/latest?cb=20141019030555"
+  },
+  {
+    "Title": "Lakuwani",
+    "Station": "Beach",
+    "Genre": "Beach",
+    "Artist": "Anna Karney",
+    "Pack": "The Sims: House Party",
+    "Preview": "https://static.wikia.nocookie.net/sims/images/0/06/Ts1_beach3.ogg/revision/latest?cb=20150106000941"
+  },
+  {
+    "Title": "Sims Wipe Out",
+    "Station": "Beach",
+    "Genre": "Surf rock",
+    "Artist": "Kirk Casey",
+    "Pack": "The Sims: House Party",
+    "Preview": "https://static.wikia.nocookie.net/sims/images/7/7f/Ts1_beach4.ogg/revision/latest?cb=20141019030556"
+  },
+  {
+    "Title": "",
+    "Station": "Beach",
+    "Genre": "Beach",
+    "Artist": "Kirk Casey",
+    "Pack": "The Sims: House Party",
+    "Preview": "https://static.wikia.nocookie.net/sims/images/b/b5/Ts1_beach5.ogg/revision/latest?cb=20150106000941"
+  },
+  {
+    "Title": "Clint Sims",
+    "Station": "Country Dance",
+    "Genre": "Country",
+    "Artist": "Dix Bruce",
+    "Pack": "The Sims: House Party",
+    "Preview": "https://static.wikia.nocookie.net/sims/images/7/76/Ts1_cntryd1.ogg/revision/latest?cb=20160222185913"
+  },
+  {
+    "Title": "Yippio Ki Oh",
+    "Station": "Country Dance",
+    "Genre": "Country pop",
+    "Artist": "Dix Bruce",
+    "Pack": "The Sims: House Party",
+    "Preview": "https://static.wikia.nocookie.net/sims/images/a/ad/Ts1_cntryd2.ogg/revision/latest?cb=20160222191058"
+  },
+  {
+    "Title": "Hidee Holay",
+    "Station": "Country Dance",
+    "Genre": "Country",
+    "Artist": "Dix Bruce",
+    "Pack": "The Sims: House Party",
+    "Preview": "https://static.wikia.nocookie.net/sims/images/e/e5/Ts1_cntryd3.ogg/revision/latest?cb=20160222191846"
+  },
+  {
+    "Title": "Jerry Lee Sims",
+    "Station": "Country Dance",
+    "Genre": "Rock &amp; roll",
+    "Artist": "Dix Bruce",
+    "Pack": "The Sims: House Party",
+    "Preview": "https://static.wikia.nocookie.net/sims/images/a/a9/Ts1_cntryd4.ogg/revision/latest?cb=20160222192100"
+  },
+  {
+    "Title": "The Band",
+    "Station": "Country Dance",
+    "Genre": "Hawaiian",
+    "Artist": "Dix Bruce",
+    "Pack": "The Sims: House Party",
+    "Preview": "https://static.wikia.nocookie.net/sims/images/c/c4/Ts1_cntryd5.ogg/revision/latest?cb=20160222192229"
+  },
+  {
+    "Title": "Oogie Oogie Ooh",
+    "Station": "Disco",
+    "Genre": "Disco",
+    "Artist": "Jerry Martin",
+    "Pack": "The Sims: House Party",
+    "Preview": "https://static.wikia.nocookie.net/sims/images/5/5e/Ts1_disco1.ogg/revision/latest?cb=20140924141018"
+  },
+  {
+    "Title": "Shaka Do Thang",
+    "Station": "Disco",
+    "Genre": "Disco",
+    "Artist": "Kent Jolly",
+    "Pack": "The Sims: House Party",
+    "Preview": "https://static.wikia.nocookie.net/sims/images/0/02/Ts1_disco2.ogg/revision/latest?cb=20140924141019"
+  },
+  {
+    "Title": "Funky Sim",
+    "Station": "Disco",
+    "Genre": "Disco",
+    "Artist": "Marc Russo",
+    "Pack": "The Sims: House Party",
+    "Preview": "https://static.wikia.nocookie.net/sims/images/0/0f/Ts1_disco3.ogg/revision/latest?cb=20140924141020"
+  },
+  {
+    "Title": "Al Sims",
+    "Station": "Disco",
+    "Genre": "Disco",
+    "Artist": "Marc Russo",
+    "Pack": "The Sims: House Party",
+    "Preview": "https://static.wikia.nocookie.net/sims/images/7/71/Ts1_disco4.ogg/revision/latest?cb=20140924141021"
+  },
+  {
+    "Title": "Gloria Sims",
+    "Station": "Disco",
+    "Genre": "Disco",
+    "Artist": "Kirk Casey",
+    "Pack": "The Sims: House Party",
+    "Preview": "https://static.wikia.nocookie.net/sims/images/a/a5/Ts1_disco5.ogg/revision/latest?cb=20140924141021"
+  },
+  {
+    "Title": "Put It Down (Dance Little Sim Dance)",
+    "Station": "Techno",
+    "Genre": "House",
+    "Artist": "Jerry Martin",
+    "Pack": "The Sims: House Party",
+    "Preview": "https://static.wikia.nocookie.net/sims/images/9/99/Ts1_rave1.ogg/revision/latest?cb=20140915160547"
+  },
+  {
+    "Title": "Simtricity (Glow Stick)",
+    "Station": "Techno",
+    "Genre": "D&amp;B",
+    "Artist": "Jerry Martin",
+    "Pack": "The Sims: House Party",
+    "Preview": "https://static.wikia.nocookie.net/sims/images/4/42/Ts1_rave2.ogg/revision/latest?cb=20140915160548"
+  },
+  {
+    "Title": "Sims House Party",
+    "Station": "Techno",
+    "Genre": "House",
+    "Artist": "Francois Lafleur",
+    "Pack": "The Sims: House Party",
+    "Preview": "https://static.wikia.nocookie.net/sims/images/a/a0/Ts1_rave3.ogg/revision/latest?cb=20140915235737"
+  },
+  {
+    "Title": "Simtasy (Baggy Pants)",
+    "Station": "Techno",
+    "Genre": "Techno",
+    "Artist": "Jerry Martin",
+    "Pack": "The Sims: House Party",
+    "Preview": "https://static.wikia.nocookie.net/sims/images/5/5a/Ts1_rave4.ogg/revision/latest?cb=20140915235501"
+  },
+  {
+    "Title": "Simtrance",
+    "Station": "Techno",
+    "Genre": "House",
+    "Artist": "Francois Lafleur",
+    "Pack": "The Sims: House Party",
+    "Preview": "https://static.wikia.nocookie.net/sims/images/2/2b/Ts1_rave5.ogg/revision/latest?cb=20140915235502"
+  },
+  {
+    "Title": "Ee I Ooo Oh (Le Rap)",
+    "Station": "Rap",
+    "Genre": "Gangsta rap",
+    "Artist": "Jerry Martin",
+    "Pack": "The Sims: House Party",
+    "Preview": "https://static.wikia.nocookie.net/sims/images/1/1e/Ts1_rap1.ogg/revision/latest?cb=20140915143959"
+  },
+  {
+    "Title": "Reggae Sims (Yanga Way)",
+    "Station": "Rap",
+    "Genre": "Reggae fusion",
+    "Artist": "Robi Kauker",
+    "Pack": "The Sims: House Party",
+    "Preview": "https://static.wikia.nocookie.net/sims/images/1/12/Ts1_rap2.ogg/revision/latest?cb=20140915144000"
+  },
+  {
+    "Title": "Wewah",
+    "Station": "Rap",
+    "Genre": "Gangsta rap",
+    "Artist": "Robi Kauker",
+    "Pack": "The Sims: House Party",
+    "Preview": "https://static.wikia.nocookie.net/sims/images/4/41/Ts1_rap3.ogg/revision/latest?cb=20140915144000"
+  },
+  {
+    "Title": "Spring Break",
+    "Station": "Rap",
+    "Genre": "Gangsta rap",
+    "Artist": "Kent Jolly",
+    "Pack": "The Sims: House Party",
+    "Preview": "https://static.wikia.nocookie.net/sims/images/e/e6/Ts1_rap4.ogg/revision/latest?cb=20140915160546"
+  },
+  {
+    "Title": "The Group",
+    "Station": "Rap",
+    "Genre": "Gangsta rap",
+    "Artist": "Kent Jolly",
+    "Pack": "The Sims: House Party",
+    "Preview": "https://static.wikia.nocookie.net/sims/images/3/35/Ts1_rap5.ogg/revision/latest?cb=20140915160547"
+  },
+  {
+    "Title": "Fare Thee Well (Geraldine)",
+    "Station": "Hot Date Cheap Community Lot Speaker",
+    "Genre": "",
+    "Artist": "John R. Sbarra &amp; Timothy Johnsen Haynes",
+    "Pack": "The Sims: Hot Date",
+    "Preview": "https://static.wikia.nocookie.net/sims/images/6/60/Ts1_SHD_dt_cheap1.ogg/revision/latest?cb=20150122003147"
+  },
+  {
+    "Title": "Souvenir From Vienna",
+    "Station": "Hot Date Cheap Community Lot Speaker",
+    "Genre": "",
+    "Artist": "Josef Sirowy",
+    "Pack": "The Sims: Hot Date",
+    "Preview": "https://static.wikia.nocookie.net/sims/images/0/03/Ts1_SHD_dt_cheap2.ogg/revision/latest?cb=20150122003148"
+  },
+  {
+    "Title": "Baja Weekend (Sharon)",
+    "Station": "Hot Date Cheap Community Lot Speaker",
+    "Genre": "",
+    "Artist": "John R. Sbarra &amp; Timothy Johnsen Haynes, Norrie Paramor",
+    "Pack": "The Sims: Hot Date",
+    "Preview": "https://static.wikia.nocookie.net/sims/images/d/d6/Ts1_SHD_dt_cheap3.ogg/revision/latest?cb=20150122003148"
+  },
+  {
+    "Title": "Two's Company",
+    "Station": "Hot Date Cheap Community Lot Speaker",
+    "Genre": "",
+    "Artist": "Max Harris",
+    "Pack": "The Sims: Hot Date",
+    "Preview": "https://static.wikia.nocookie.net/sims/images/a/ae/Ts1_SHD_dt_cheap4.ogg/revision/latest?cb=20150122003149"
+  },
+  {
+    "Title": "My One And Only (You Will Never Know)",
+    "Station": "Hot Date Cheap Community Lot Speaker",
+    "Genre": "",
+    "Artist": "John R. Sbarra &amp; Timothy Johnsen Haynes",
+    "Pack": "The Sims: Hot Date",
+    "Preview": "https://static.wikia.nocookie.net/sims/images/8/80/Ts1_SHD_dt_cheap5.ogg/revision/latest?cb=20150122003149"
+  },
+  {
+    "Title": "Le Soir D'Amour",
+    "Station": "Hot Date Cheap Community Lot Speaker",
+    "Genre": "",
+    "Artist": "Norman Candler",
+    "Pack": "The Sims: Hot Date",
+    "Preview": "https://static.wikia.nocookie.net/sims/images/6/61/Ts1_SHD_dt_cheap6.ogg/revision/latest?cb=20150122003150"
+  },
+  {
+    "Title": "Light And Easy",
+    "Station": "Hot Date Cheap Community Lot Speaker",
+    "Genre": "",
+    "Artist": "David Snell",
+    "Pack": "The Sims: Hot Date",
+    "Preview": "https://static.wikia.nocookie.net/sims/images/e/ec/Ts1_SHD_dt_cheap7.ogg/revision/latest?cb=20150122003150"
+  },
+  {
+    "Title": "Helena",
+    "Station": "Hot Date Cheap Community Lot Speaker",
+    "Genre": "",
+    "Artist": "John R. Sbarra &amp; Timothy Johnsen Haynes",
+    "Pack": "The Sims: Hot Date",
+    "Preview": "https://static.wikia.nocookie.net/sims/images/0/0e/Ts1_SHD_dt_cheap8.ogg/revision/latest?cb=20141113014253"
+  },
+  {
+    "Title": "Dayaway[13]",
+    "Station": "Hot Date Cheap Community Lot Speaker",
+    "Genre": "",
+    "Artist": "James Clarke[13]",
+    "Pack": "The Sims: Hot Date",
+    "Preview": "https://static.wikia.nocookie.net/sims/images/3/34/Ts1_SHD_dt_cheap9.ogg/revision/latest?cb=20150122003150"
+  },
+  {
+    "Title": "Divertimento in D major K.136 - II Andante",
+    "Station": "Hot Date Expensive Community Lot Speaker",
+    "Genre": "",
+    "Artist": "Wolfgang Amadeus Mozart",
+    "Pack": "The Sims: Hot Date",
+    "Preview": "https://static.wikia.nocookie.net/sims/images/5/52/Ts1_shd_dt_exp1.ogg/revision/latest?cb=20141210235637"
+  },
+  {
+    "Title": "String Quintet in E major G 275 - III Minuetto, Trio (arr. for string quartet)",
+    "Station": "Hot Date Expensive Community Lot Speaker",
+    "Genre": "",
+    "Artist": "Luigi Boccherini",
+    "Pack": "The Sims: Hot Date",
+    "Preview": "https://static.wikia.nocookie.net/sims/images/c/c9/Ts1_shd_dt_exp3.ogg/revision/latest?cb=20141210235637"
+  },
+  {
+    "Title": "Te Deum H.146 - Prelude (arr. for string quartet)",
+    "Station": "Hot Date Expensive Community Lot Speaker",
+    "Genre": "",
+    "Artist": "Marc-Antoine Charpentier",
+    "Pack": "The Sims: Hot Date",
+    "Preview": "https://static.wikia.nocookie.net/sims/images/2/2b/Ts1_shd_dt_exp4.ogg/revision/latest?cb=20141210235638"
+  },
+  {
+    "Title": "String Quartet No. 3 in G major K. 156/134b - I Presto",
+    "Station": "Hot Date Expensive Community Lot Speaker",
+    "Genre": "",
+    "Artist": "Wolfgang Amadeus Mozart",
+    "Pack": "The Sims: Hot Date",
+    "Preview": "https://static.wikia.nocookie.net/sims/images/c/cf/Ts1_shd_dt_exp5.ogg/revision/latest?cb=20141210235638"
+  },
+  {
+    "Title": "Sinfonietta in D Major W.B 57 - I Andante",
+    "Station": "Hot Date Expensive Community Lot Speaker",
+    "Genre": "",
+    "Artist": "Johann Christian Bach[14]",
+    "Pack": "The Sims: Hot Date",
+    "Preview": "https://static.wikia.nocookie.net/sims/images/5/5b/Ts1_shd_dt_exp6.ogg/revision/latest?cb=20141210235639"
+  },
+  {
+    "Title": "Cruisin' The Delta (Don't Worry)",
+    "Station": "Unleashed Cheap Community Lot SpeakerOld Town Community Lot Build/Buy",
+    "Genre": "",
+    "Artist": "Zydeco Flames",
+    "Pack": "The Sims: Unleashed",
+    "Preview": "https://static.wikia.nocookie.net/sims/images/c/c7/Ts1_SUL_Zyd1_M.ogg/revision/latest?cb=20141104170636"
+  },
+  {
+    "Title": "Unleashed Jam (Got To Go Zydeco)",
+    "Station": "Unleashed Cheap Community Lot SpeakerOld Town Community Lot Build/Buy",
+    "Genre": "",
+    "Artist": "Zydeco Flames",
+    "Pack": "The Sims: Unleashed",
+    "Preview": "https://static.wikia.nocookie.net/sims/images/0/03/Ts1_SUL_Zyd2_M.ogg/revision/latest?cb=20141104170637"
+  },
+  {
+    "Title": "Down By The River (I'm The One)",
+    "Station": "Unleashed Cheap Community Lot SpeakerOld Town Community Lot Build/Buy",
+    "Genre": "",
+    "Artist": "Zydeco Flames",
+    "Pack": "The Sims: Unleashed",
+    "Preview": "https://static.wikia.nocookie.net/sims/images/4/4e/Ts1_SUL_Zyd3_M.ogg/revision/latest?cb=20141104170638"
+  },
+  {
+    "Title": "Oh Yah La Do (Wanna Go Back Home)",
+    "Station": "Unleashed Cheap Community Lot SpeakerOld Town Community Lot Build/Buy",
+    "Genre": "",
+    "Artist": "Zydeco Flames",
+    "Pack": "The Sims: Unleashed",
+    "Preview": "https://static.wikia.nocookie.net/sims/images/7/77/Ts1_SUL_Zyd4_M.ogg/revision/latest?cb=20141115235232"
+  },
+  {
+    "Title": "Ooh Ah (Two Stomp)",
+    "Station": "Unleashed Cheap Community Lot SpeakerOld Town Community Lot Build/Buy",
+    "Genre": "",
+    "Artist": "Zydeco Flames",
+    "Pack": "The Sims: Unleashed",
+    "Preview": "https://static.wikia.nocookie.net/sims/images/a/a7/Ts1_SUL_Zyd5_M.ogg/revision/latest?cb=20141115235241"
+  },
+  {
+    "Title": "It's In The Jam (You Can Dance)",
+    "Station": "Unleashed Cheap Community Lot SpeakerOld Town Community Lot Build/Buy",
+    "Genre": "",
+    "Artist": "Zydeco Flames",
+    "Pack": "The Sims: Unleashed",
+    "Preview": "https://static.wikia.nocookie.net/sims/images/7/7e/Ts1_SUL_Zyd6_M.ogg/revision/latest?cb=20141115235241"
+  },
+  {
+    "Title": "Sim The Blues",
+    "Station": "Unleashed Jazz Community Lot Speaker",
+    "Genre": "Jazz piano",
+    "Artist": "John R. Burr",
+    "Pack": "The Sims: Unleashed",
+    "Preview": "https://static.wikia.nocookie.net/sims/images/8/8f/Ts1_SUL_Piano1_M.ogg/revision/latest?cb=20141119032912"
+  },
+  {
+    "Title": "I Got The Sim Blues (Naughty Belle)",
+    "Station": "Unleashed Jazz Community Lot Speaker",
+    "Genre": "Jazz piano",
+    "Artist": "John R. Burr",
+    "Pack": "The Sims: Unleashed",
+    "Preview": "https://static.wikia.nocookie.net/sims/images/5/5a/Ts1_unleashed_jazz_piano2.ogg/revision/latest?cb=20141007141856"
+  },
+  {
+    "Title": "Unleash The Sims",
+    "Station": "Unleashed Jazz Community Lot Speaker",
+    "Genre": "Funk",
+    "Artist": "",
+    "Pack": "The Sims: Unleashed",
+    "Preview": "https://static.wikia.nocookie.net/sims/images/8/86/Ts1_SUL_Band1_M.ogg/revision/latest?cb=20150322191817"
+  },
+  {
+    "Title": "",
+    "Station": "Unleashed Jazz Community Lot Speaker",
+    "Genre": "Funk",
+    "Artist": "",
+    "Pack": "The Sims: Unleashed",
+    "Preview": "https://static.wikia.nocookie.net/sims/images/6/62/Ts1_SUL_Band2_M.ogg/revision/latest?cb=20150322191817"
+  },
+  {
+    "Title": "",
+    "Station": "Unleashed Jazz Community Lot Speaker",
+    "Genre": "Funk",
+    "Artist": "",
+    "Pack": "The Sims: Unleashed",
+    "Preview": "https://static.wikia.nocookie.net/sims/images/f/f0/Ts1_SUL_Band3_M.ogg/revision/latest?cb=20150322191818"
+  },
+  {
+    "Title": "",
+    "Station": "Unleashed Jazz Community Lot Speaker",
+    "Genre": "Smooth jazz",
+    "Artist": "Marc Russo",
+    "Pack": "The Sims: Unleashed",
+    "Preview": "https://static.wikia.nocookie.net/sims/images/5/54/Ts1_SUL_Band4_M.ogg/revision/latest?cb=20150322191818"
+  },
+  {
+    "Title": "",
+    "Station": "Unleashed Jazz Community Lot Speaker",
+    "Genre": "Soul",
+    "Artist": "",
+    "Pack": "The Sims: Unleashed",
+    "Preview": "https://static.wikia.nocookie.net/sims/images/5/51/Ts1_SUL_Band5_M.ogg/revision/latest?cb=20150322191819"
+  },
+  {
+    "Title": "",
+    "Station": "Unleashed Jazz Community Lot Speaker",
+    "Genre": "Funk",
+    "Artist": "",
+    "Pack": "The Sims: Unleashed",
+    "Preview": "https://static.wikia.nocookie.net/sims/images/6/64/Ts1_SUL_Band6_M.ogg/revision/latest?cb=20150322191819"
+  }
+]
