@@ -2,7 +2,7 @@
 // import src/data/in-game-music.json
 import inGameMusic from "~/data/in-game-music.json";
 import radioMusic from "~/data/radio-music.json";
-import { useEffect, useState } from "react";
+import { useState } from "react";
 import {
   Accordion,
   AccordionContent,
